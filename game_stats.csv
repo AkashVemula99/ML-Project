@@ -1,0 +1,6 @@
+difficulty,result,time_taken,guesses_used,hints_used,code_length,allow_duplicates,secret_code
+Easy,win,45.2,4,1,4,False,1234
+Medium,loss,67.8,9,2,5,True,25367
+Hard,win,50.1,7,0,6,True,142356
+Medium,loss,88.5,10,3,5,True,98765
+Easy,win,33.4,3,0,4,False,6789
